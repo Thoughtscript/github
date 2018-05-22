@@ -1,5 +1,9 @@
 # github
 
-Thinkful GitHub Practice
+Practice makes perfect!
 
-Albert's lines 
+Thinkful GitHub Practice.
+
+Practice makes perfect!
+
+#Albert's lines
